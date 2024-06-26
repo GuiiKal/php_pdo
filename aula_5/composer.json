@@ -1,7 +1,7 @@
 {
     "autoload": {
         "psr-4": {
-            "Alura\\Pdo\\": "src/"
+            "aula_5\\Alura\\Pdo\\": "src/"
         }
     }
 }
